@@ -11,4 +11,4 @@ title = "Slotpark Bonus Code"
   tag = "tags"
 
 [permalinks]
-posts = ":slug"
+posts = "/:slug/"
