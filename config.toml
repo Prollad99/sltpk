@@ -9,3 +9,6 @@ title = "Slotpark Bonus Code"
 
 [taxonomies]
   tag = "tags"
+
+[permalinks]
+posts = "/:slug/"
