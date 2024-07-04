@@ -1,0 +1,11 @@
+baseURL = "https://www.slotparkbonuscode.de"
+languageCode = "de"
+title = "Slotpark Bonus Code"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
