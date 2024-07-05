@@ -19,7 +19,7 @@ Um Freunde einzuladen, gehen Sie wie folgt vor:
 2.  In deinem Spielerprofil findest du deine Freundesliste.
 3.  Auf der Seite "Finden" können Sie Freunde über Facebook einladen, wenn Ihr Spielerkonto verknüpft ist. Alternativ können Sie Ihren Freunden einen Einladungslink per E-Mail, Textnachricht oder eine andere Nachrichten-App schicken.
 
-![Slotpark Freundesliste Anleitung](/static/images/Freunde-einladen.jpg)
+![Slotpark Freundesliste Anleitung](/images/Freunde-einladen.jpg)
 
 ## Wie oft kann ein spezieller Link verwendet werden?
 
@@ -27,7 +27,7 @@ Spezielle Links helfen Ihnen, Freunde zu Slotpark einzuladen.
 
 Jeder spezielle Link kann von bis zu zehn Spielern verwendet werden. Wenn Sie später mehr Freunde einladen möchten, können Sie einen neuen Link erstellen und ihn über die Schaltfläche im Abschnitt "Freunde" teilen.
 
-![Slotpark Freundesliste Anleitung](/static/images/Freunde-einladen1.jpg)
+![Slotpark Freundesliste Anleitung](/images/Freunde-einladen1.jpg)
 
 ## Kann ich Freunde aus meiner Freundesliste löschen?
 
@@ -44,7 +44,7 @@ Ja, deine Freunde können sehen, ob du ein VIP bist, es sei denn, du schaltest d
 2.  Bearbeiten Sie Ihr Spielerkonto, indem Sie auf die Bleistift-Schaltfläche klicken.
 3.  Deaktivieren Sie das Kontrollkästchen "Andere Spieler können Ihren VIP-Status sehen".
 
-![Slotpark Freundesliste Anleitung](/static/images/Freunde-einladen2.jpg)
+![Slotpark Freundesliste Anleitung](/images/Freunde-einladen2.jpg)
 
 ## Kann ich meinen Freunden eine spezielle Bonusprämie geben?
 
