@@ -19,7 +19,7 @@ Sie finden Ihr Sparschwein im Hauptbereich.
 
 Wie ein echtes Sparschwein wird es eines Tages ganz voll sein. Das ist der beste Zeitpunkt, um es zu öffnen, aber du kannst es auch früher öffnen, wenn du willst.
 
-![das sparscweinnin in slotpark](/images/Das-Sparschwein.jpg)
+![das sparscweinnin in slotpark](images/Das-Sparschwein.jpg)
 
 ## Ich habe versucht, mein Sparschwein zu öffnen, aber jetzt lässt es sich nicht mehr öffnen. Warum?
 
