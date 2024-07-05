@@ -35,7 +35,7 @@ Um auf Ihre Einstellungen zuzugreifen, scrollen Sie nach unten und suchen Sie di
 2.  Öffnen Sie "Mehr Details".
 3.  Klicken Sie auf die Schaltfläche , um das Kauflimit zu ändern und einen neuen Betrag festzulegen.
 
-![Slotpark-Kauflimit](/static/images/Slotpark-Kauflimit.jpg)
+![Slotpark-Kauflimit](/images/Slotpark-Kauflimit.jpg)
 
 Sie können das Ausgabenlimit jederzeit verringern. Sie können es nur erhöhen, wenn Sie sich mit einer E-Mail-Adresse angemeldet haben.
 
