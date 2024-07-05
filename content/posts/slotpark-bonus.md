@@ -14,10 +14,10 @@ Steigern Sie Ihre Boni bei Slotpark und erhöhen Sie Ihren täglichen Bonus mit 
 Boni, die Sie per E-Mail oder über Facebook erhalten, enthalten immer einen speziellen Link und einen Code. Wenn der Link auf Ihrem Gerät aus technischen Gründen nicht funktioniert, können Sie Ihren Bonus trotzdem erhalten, indem Sie den Bonuscode verwenden.
 
 1.  Gehen Sie zur Option "Einstellungen".
-![Slotpark Bonus](/static/images/Slotpark-Einstellungen.jpg)
+![Slotpark Bonus](/images/Slotpark-Einstellungen.jpg)
 
 3.  Gehen Sie auf dem Bildschirm nach unten, tippen Sie auf die Schaltfläche Bonus und geben Sie Ihren Bonuscode ein.
-![Slotpark Bonus](/static/images/slotpark-bonus.jpg)
+![Slotpark Bonus](/images/slotpark-bonus.jpg)
 
 Wenn Sie eine Meldung erhalten, dass etwas nicht stimmt, wenn Sie versuchen, Ihren Bonus zu erhalten, wird Ihnen mitgeteilt, warum Sie den Bonus nicht bekommen können.
 
