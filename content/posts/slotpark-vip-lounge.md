@@ -21,7 +21,7 @@ Eine Liste aller Vorteile, die Sie als VIP-Lounge-Mitglied genießen können, fi
 
 Wenn Sie bei Slotpark etwas kaufen, erhalten Sie spezielle VIP-Punkte. Diese Punkte helfen Ihnen, in der VIP-Lounge aufzusteigen und weitere Vorteile zu erhalten. Wenn Sie den VIP Black Status erreichen, haben Sie vollen Zugang zu Slotpark!
 
-![Slotpark VIP Lounge](/static/images/VIP-Punkte.jpg)
+![Slotpark VIP Lounge](/images/VIP-Punkte.jpg)
 
 ## Wann wird mein VIP-Level geändert?
 
