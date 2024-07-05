@@ -37,7 +37,7 @@
                     <div class="card-body">
                         <h2>Beiträge</h2>
                         <ul class="list-group fixed-height-scroll">
-            {{ $pages := where .Site.RegularPages "Params.excludeFromHome" "!=" true }}
+            {{ $pages := where .Site.RegularPages ".Params.hideFromHome" "ne" true }}
                     {{ range $pages }}
                                 <li class="list-group-item">
                                     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
