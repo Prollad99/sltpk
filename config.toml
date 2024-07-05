@@ -13,5 +13,5 @@ title = "Slotpark Bonus Code"
 [permalinks]
   posts = "/:slug/"
 
-# Control the use of trailing slashes (default is true)
-trailingSlash = false
+[server]
+  disablePathToLower = true
