@@ -30,6 +30,22 @@
             </div>
         </div>
 
+
+{{ define "main" }}
+    <main class="container">
+        <h2>Debug All Pages</h2>
+        <ul>
+            {{ range .Site.RegularPages }}
+                <li>
+                    Title: {{ .Title }} <br>
+                    Params: {{ .Params | jsonify }}
+                </li>
+            {{ end }}
+        </ul>
+    </main>
+{{ end }}
+
+
         <!-- Display a list of all posts -->
         <div class="row">
             <div class="col">
