@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "About"
 date: 2024-07-04
 author: "Prollad"
