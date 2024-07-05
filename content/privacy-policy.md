@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Privacy Policy"
 date: 2024-07-04
 author: "Prollad"
