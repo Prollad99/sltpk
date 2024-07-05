@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Contact Us"
 date: 2024-07-04
 author: "Prollad"
