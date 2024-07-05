@@ -5,7 +5,7 @@ date: 2024-07-04
 author: "Prollad"
 draft: false
 slug: "/p/about-us.html"
-hideFromHome: true
+excludeFromHome: true
 excludeFromShare: true
 type: "page"
 ---
