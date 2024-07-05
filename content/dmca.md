@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "DMCA"
 date: 2024-07-04
 author: "Prollad"
