@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-date: 2024-07-05
+date: 2024-07-04
 author: "Prollad"
 draft: false
 slug: "/p/about-us.html"
