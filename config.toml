@@ -13,4 +13,6 @@ title = "Slotpark Bonus Code"
 [permalinks]
   posts = "/:slug/"
 
-disablePathToLower = true
+[permalinks]
+  disablePathToLower = true
+
