@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Disclaimer"
 date: 2024-07-04
 author: "Prollad"
