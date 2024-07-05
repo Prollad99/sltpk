@@ -13,5 +13,4 @@ title = "Slotpark Bonus Code"
 [permalinks]
   posts = "/:slug/"
 
-canonifyURLs = true
 uglyURLs = true
