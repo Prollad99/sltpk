@@ -7,7 +7,7 @@ tags: ["Slotpark", "Team Missionen", "Ligen", "Spielanleitung"]
 author: "Prollad"
 aliases:
   - /2023/06/slotpark-team-missionen.html
-  - /2023/06/slotpark-team-missionen.html/
+  - /posts/2023/06/slotpark-team-missionen.html/
   - /2023/06/slotpark-team-missionen
 ---
 
