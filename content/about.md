@@ -3,7 +3,7 @@ title: "About"
 date: 2024-07-04
 author: "Prollad"
 draft: false
-slug: "about-us"
+slug: "about"
 excludeFromHome: true
 excludeFromShare: true
 type: "page"
