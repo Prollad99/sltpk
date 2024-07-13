@@ -10,6 +10,7 @@ type: "page"
 aliases:
   - /p/about-us.html
   - /p/anout-us.html/
+  - /p/about-us
 ---
 
 ## Über Uns
