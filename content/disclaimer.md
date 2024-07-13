@@ -10,6 +10,7 @@ type: "page"
 aliases:
   - /p/disclaimer.html
   - /p/disclaimer.html/
+  - /p/disclaimer
 ---
 
 If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at prolladmail@gmail.com.
