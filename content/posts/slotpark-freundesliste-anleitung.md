@@ -5,6 +5,10 @@ date: 2024-07-05
 description: "Erfahren Sie, wie Sie Ihre Boni in Slotpark steigern können, indem Sie mehr Freunde einladen und VIP werden."
 tags: ["Slotpark", "Boni", "Freunde", "VIP"]
 author: "Prollad"
+aliases:
+  - /2023/06/slotpark-freundesliste-anleitung.html
+  - /2023/06/slotpark-freundesliste-anleitung.html/
+  - /2023/06/slotpark-freundesliste-anleitung
 ---
 
 Steigern Sie Ihre Boni mit Freunden! Werden Sie VIP, erhöhen Sie die Anzahl Ihrer Freunde und genießen Sie mehr Belohnungen bei Slotpark. Erfahren Sie, wie es funktioniert und laden Sie noch heute Freunde ein!
