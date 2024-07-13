@@ -7,7 +7,7 @@ tags: ["Slotpark", "Boni", "Freunde", "VIP"]
 author: "Prollad"
 aliases:
   - /2023/06/slotpark-freundesliste-anleitung.html
-  - /2023/06/slotpark-freundesliste-anleitung.html/
+  - /posts/2023/06/slotpark-freundesliste-anleitung.html/
   - /2023/06/slotpark-freundesliste-anleitung
 ---
 
