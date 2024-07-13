@@ -7,7 +7,7 @@ tags: ["Slotpark", "Bonus", "VIP", "Freunde", "Partner-Apps", "Zeitbonus"]
 author: "Prollad"
 aliases:
   - /2023/06/slotpark-bonus.html
-  - /2023/06/slotpark-bonus.html/
+  - /posts/2023/06/slotpark-bonus.html/
   - /2023/06/slotpark-bonus
 ---
 
