@@ -1,6 +1,6 @@
 ---
 title: "Slotpark Freundesliste Anleitung: Vervielfachen Sie Ihre Boni in Slotpark!"
-slug: "/2023/06/slotpark-freundesliste-anleitung.html"
+slug: "slotpark-freundesliste-anleitung"
 date: 2024-07-05
 description: "Erfahren Sie, wie Sie Ihre Boni in Slotpark steigern können, indem Sie mehr Freunde einladen und VIP werden."
 tags: ["Slotpark", "Boni", "Freunde", "VIP"]
