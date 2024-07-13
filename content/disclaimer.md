@@ -3,10 +3,13 @@ title: "Disclaimer"
 date: 2024-07-04
 author: "Prollad"
 draft: false
-slug: "/p/disclaimer.html"
+slug: "disclaimer"
 excludeFromHome: true
 excludeFromShare: true
 type: "page"
+aliases:
+  - /p/disclaimer.html
+  - /p/disclaimer.html/
 ---
 
 If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at prolladmail@gmail.com.
