@@ -7,7 +7,7 @@ tags: ["Kauflimit", "Slotpark", "Spielerkonten"]
 author: "Prollad"
 aliases:
   - /2023/06/slotpark-kauflimit.html
-  - /2023/06/slotpark-kauflimit.html/
+  - /posts/2023/06/slotpark-kauflimit.html/
   - /2023/06/slotpark-kauflimit
 ---
 
