@@ -3,10 +3,13 @@ title: "Privacy Policy"
 date: 2024-07-04
 author: "Prollad"
 draft: false
-slug: "/p/privacy-policy.html"
+slug: "privacy-policy"
 excludeFromHome: true
 excludeFromShare: true
 type: "page"
+aliases:
+  - /p/privacy-policy.html
+  - /p/privacy-policy.html/
 ---
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
