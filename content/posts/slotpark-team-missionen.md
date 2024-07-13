@@ -1,10 +1,14 @@
 ---
 title: "Slotpark Team-Missionen: Spaß mit Freunden!"
-slug: "/2023/06/slotpark-team-missionen.html"
+slug: "slotpark-team-missionen"
 date: 2024-07-05
 description: "Eine Anleitung zu Slotpark Team Missionen und Ligen, um mit Freunden zu spielen und Belohnungen zu verdienen."
 tags: ["Slotpark", "Team Missionen", "Ligen", "Spielanleitung"]
 author: "Prollad"
+aliases:
+  - /2023/06/slotpark-team-missionen.html
+  - /2023/06/slotpark-team-missionen.html/
+  - /2023/06/slotpark-team-missionen
 ---
 
 Slotpark Team Missions sind wie Quests, aber du kannst mit deinen Freunden spielen und coole Boni verdienen!
