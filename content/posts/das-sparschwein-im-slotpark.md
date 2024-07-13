@@ -7,7 +7,7 @@ tags: ["Slotpark", "Sparschwein", "Anleitung", "Tipps"]
 author: "Prollad"
 aliases:
   - /2023/06/das-sparschwein-im-slotpark.html
-  - /2023/06/das-sparschwein-im-slotpark.html/
+  - /posts/2023/06/das-sparschwein-im-slotpark.html/
   - /2023/06/das-sparschwein-im-slotpark
 ---
 
