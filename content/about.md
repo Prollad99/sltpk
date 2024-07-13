@@ -3,10 +3,13 @@ title: "About"
 date: 2024-07-04
 author: "Prollad"
 draft: false
-slug: "/p/about-us.html"
+slug: "about-us"
 excludeFromHome: true
 excludeFromShare: true
 type: "page"
+aliases:
+  - /p/about-us.html
+  - /p/anout-us.html/
 ---
 
 ## Über Uns
