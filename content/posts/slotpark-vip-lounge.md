@@ -7,7 +7,7 @@ tags: ["Slotpark", "VIP Lounge", "Online Casino"]
 author: "Prollad"
 aliases:
   - /2023/06/slotpark-vip-lounge.html
-  - /2023/06/slotpark-vip-lounge.html/
+  - /posts/2023/06/slotpark-vip-lounge.html/
   - /2023/06/slotpark-vip-lounge
 ---
 
