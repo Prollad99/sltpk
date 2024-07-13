@@ -3,7 +3,7 @@ title: "Contact Us"
 date: 2024-07-04
 author: "Prollad"
 draft: false
-slug: "contact-us"
+slug: "contact"
 excludeFromHome: true
 excludeFromShare: true
 type: "page"
