@@ -8,6 +8,7 @@ author: "Prollad"
 aliases:
   - /2023/06/das-sparschwein-im-slotpark.html
   - /2023/06/das-sparschwein-im-slotpark.html/
+  - /2023/06/das-sparschwein-im-slotpark
 ---
 
 Das Sparschwein im Slotpark ist wie ein echtes Sparschwein. Es gibt sie in verschiedenen Größen, und je größer das Sparschwein ist, desto mehr kostet es. Allerdings können Sie mit den größeren Sparschweinen auch mehr Slotpark-Chips sparen.
