@@ -10,6 +10,7 @@ type: "page"
 aliases:
   - /p/dmca.html
   - /p/dmca.html/
+  - /p/dmca
 ---
 
 SlotparkBonusCode.de is in compliance with 17 U.S.C. § 512 and the Digital Millennium Copyright Act (“DMCA”). It is our policy to respond to any infringement notices and take appropriate actions under the Digital Millennium Copyright Act (“DMCA”) and other applicable intellectual property laws.
