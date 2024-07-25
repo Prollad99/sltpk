@@ -1,4 +1,4 @@
-const CACHE_NAME = 'static-cache-v2';  // Increment the version number when you make changes
+const CACHE_NAME = 'static-cache-v2';
 
 self.addEventListener('install', function(event) {
   event.waitUntil(
@@ -17,7 +17,6 @@ self.addEventListener('install', function(event) {
 });
 
 self.addEventListener('activate', function(event) {
-  // Clear old caches
   event.waitUntil(
     caches.keys().then(function(cacheNames) {
       return Promise.all(
@@ -29,6 +28,8 @@ self.addEventListener('activate', function(event) {
       );
     })
   );
+
+  return self.clients.claim(); // Take control of uncontrolled clients immediately
 });
 
 self.addEventListener('fetch', function(event) {
@@ -42,4 +43,10 @@ self.addEventListener('fetch', function(event) {
       });
     })
   );
+});
+
+self.addEventListener('message', function(event) {
+  if (event.data.action === 'skipWaiting') {
+    self.skipWaiting();
+  }
 });
