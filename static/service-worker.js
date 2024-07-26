@@ -1,6 +1,9 @@
 const CACHE_NAME = 'static-cache-v2';
 
 self.addEventListener('install', function(event) {
+  // Force waiting service worker to become active
+  self.skipWaiting();
+  
   event.waitUntil(
     caches.open(CACHE_NAME).then(function(cache) {
       return cache.addAll([
